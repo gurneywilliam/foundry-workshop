@@ -1,5 +1,6 @@
 # foundry-workshop
-<h1>45 minutes - 08.02.2019</h1>
+<h2>45 minutes - 08.02.2019</h2>
+<h2>Using Jupyter Slides instead of powerpoint might be best for this, as the code will not be blurred, especially if you are screen sharing. See my Jupyter slides, and see if you agree? Sanjay, have you thought about how you will present? I could be the one to move your slides along?</h2>
 
 <p>1_Introduction to Python (10 minutes)<br>
 Python as compared to other languages<br>
