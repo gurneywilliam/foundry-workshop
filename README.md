@@ -2,7 +2,7 @@
 <h2>45 minutes - 08.02.2019</h2>
 <p>Using Jupyter Slides, maybe with the RISE plug-in, instead of powerpoint might be best for this, as the code will not be blurred, especially if you are screen sharing. See my Jupyter slides, and see if you agree? Sanjay, have you thought about how you will present? I could be the one to move your slides along? Or something more complex as trying to ssh into my running of the RISE jupyter slides??<p>
 
-<p>1_Introduction to Python (10 minutes)<br>
+<p>1_Introduction to Python (5 minutes)<br>
 Python as compared to other languages<br>
 Basic Python constructs . </p> 
 <p>2_Foundational Concepts of Machine Learning (10 minutes)<br>
